@@ -7,7 +7,7 @@
 name="KISHAN"
 echo $name
 ```
-![Alt text](<../../Project/5 - Shell Scripting Hands On Project/Screenshots/1. variables output.jpg>)
+![Alt text](<Screenshots/1. variables output.jpg>)
 
 
 2. **Control Flow :**
@@ -27,7 +27,7 @@ else
     echo "The number is zero."
 fi
 ```
-![Alt text](<../../Project/5 - Shell Scripting Hands On Project/Screenshots/2. function output.jpg>)
+![Alt text](<Screenshots/2. function output.jpg>)
 
 ```sh
 #!/bin/bash
@@ -39,7 +39,7 @@ do
     echo $i
 done
 ```
-![Alt text](<../../Project/5 - Shell Scripting Hands On Project/Screenshots/2.1 Function Output.jpg>)
+![Alt text](<Screenshots/2.1 Function Output.jpg>)
 
 3. **Command Substitution :**
 
