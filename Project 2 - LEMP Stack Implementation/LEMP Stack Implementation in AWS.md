@@ -237,7 +237,7 @@ Now create a PHP script that will connect to MySQL and query the content. Let's 
 vi /var/www/projectLEMP/todo_list.php
 ```
 Paste the following configuration it to the PHP file:
-```
+```php
 <?php
 $user = "kn_user";
 $password = "PassWord.1";
